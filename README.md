@@ -14,7 +14,7 @@ Two AI features built on EaseMyTrip's design system, powered by Google Gemini:
 ---
 
 ## Quick Start
-
+Vercel link - https://emt-snap-it.vercel.app/
 ### Prerequisites
 - Node.js 18+ — https://nodejs.org (LTS version)
 - A free Gemini API key — https://aistudio.google.com/app/apikey
